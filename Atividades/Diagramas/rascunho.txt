@@ -1,0 +1,29 @@
+funcionnário - ok
+cliente - ok
+movel - ok
+insumo - ok
+fornecedor -ok
+fabricacao - ok
+venda - ok
+compra - ok
+estoque - ok
+recebimento - ok
+entrega - ok
+encomenda - ok
+despesa - ok
+setor - ok
+caixa - ok
+pagamento -ok 
+usuario- 
+ficha tecnica- ok
+
+-----------------------------
+Movel_Encomenda
+Forncedor_Insumo
+Forncedor_Insumo
+Movel_Venda
+Funcionario_Entrega
+Insumo_Fabricacao
+Funcionario_Fabricacao
+Setor_Funcionario
+Movel_Fabricacao
